@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "Yoonsik-Shin"
-  avatar: "./assets/images/scan.jpg"
+  avatar: "./images/scan.jpg"
   bio: "가치를 만들어 내고 싶은 초보개발자"
   location: "Seoul (Korea)"
   email:
